@@ -2,7 +2,7 @@
 const { defaultTheme }  = require('@vuepress/theme-default')
 
 module.exports = {
-  base: '/',
+  base: '/blog',
   lang: 'zh-CN',
   title: 'hai ！',
   description: '记录一些， 分享一些',

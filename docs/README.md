@@ -1,7 +1,7 @@
 ---
 home: true
+heroImage: /sun.png
 heroText: 一个知识分享的站点
-tagline: 分享一些东西
 actionText: 查看资源 →
 actionLink: /软件资源/软件资源
 features:
